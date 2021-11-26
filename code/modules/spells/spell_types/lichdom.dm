@@ -83,7 +83,7 @@
 	light_color = COLOR_VERY_DARK_LIME_GREEN
 	var/resurrections = 0
 	var/datum/mind/mind
-	var/respawn_time = 1800
+	var/respawn_time = 600
 
 	var/static/active_phylacteries = 0
 
